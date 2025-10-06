@@ -1,5 +1,5 @@
 <header class="text-center bg-white p-3 rounded shadow-sm">
-  <h1 class="text-primary">🌟 Bienvenido a mi primer sitio PHP 🌟</h1>
+  <h1 class="text-primary">Bienvenido a Camas</h1>
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
